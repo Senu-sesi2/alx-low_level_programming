@@ -10,9 +10,11 @@ int main(void)
 	while (n <= 9)
 	{
 		int i = n;
+
 		while (i <= 9)
 		{
 			int j = i;
+
 			while (j <= 9)
 			{
 				if (n != i && i != j)
