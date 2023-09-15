@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_spuare - print square shape
- * @size: spuare side length
+ * print_square - print square shape
+ * @size: square side length
  * Return: none.
  */
 
