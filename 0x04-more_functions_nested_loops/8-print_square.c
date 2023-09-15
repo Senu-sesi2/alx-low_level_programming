@@ -3,7 +3,6 @@
 /**
  * print_spuare - print square shape
  * @size: spuare side length
- *
  * Return: none.
  */
 
