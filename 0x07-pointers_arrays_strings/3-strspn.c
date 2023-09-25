@@ -2,7 +2,7 @@
 #include <string.h>
 
 /**
- * _strspn - get the length of a prefix substring.
+ * _strspn - gets the length of a prefix substring.
  *
  * @s: pointer to string
  * @accept: substring to be located
@@ -21,6 +21,6 @@ unsigned int _strspn(char *s, char *accept)
 	{
 		len++;
 	}
-	
+
 return (len);
 }
