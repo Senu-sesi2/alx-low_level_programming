@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * get_endinness - chech endianness
+ * get_endianness - chech endianness
  * Return: 0 if big endian, or 1 if little endian
  */
 int get_endianness(void)
