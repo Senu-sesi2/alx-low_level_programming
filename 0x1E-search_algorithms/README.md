@@ -12,4 +12,4 @@ The core purpose of the "0x1E. C - Search Algorithms" project seek to teaching a
 
 * Gaining proficiency in C programming through hands-on coding exercises.
 
-Understanding the efficiency and trade-offs of different search algorithms in terms of time complexity and space complexity.
+* Understanding the efficiency and trade-offs of different search algorithms in terms of time complexity and space complexity.
